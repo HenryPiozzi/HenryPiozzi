@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @HenryPiozzi
-- 👀 I’m interested in python, C, java, JS, html 5
-- 🌱 I’m currently learning python, C, JS, html 5
-- 💞️ I’m looking to collaborate on Bento Quirino College
-- 📫 How to reach me anaquin2905@gmail.com or +55 19 991992164
+- 👀 I’m interested in python, C++, java, JS, html 5
+- 🌱 I’m currently learning python, C++, JS, html 5
+- 📫 How to reach me henrypiozzicontato@gmail.com or +55 19 991992164
 
 <!---
 HenryPiozzi/HenryPiozzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
